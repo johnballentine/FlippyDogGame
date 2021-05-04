@@ -1,0 +1,1 @@
+global.highscore = highscore_value(1);
