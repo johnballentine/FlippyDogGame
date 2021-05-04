@@ -4,4 +4,4 @@
 
 [![Gameplay Video:](http://i.imgur.com/r3ZHt50.jpg)](https://www.youtube.com/watch?v=zY9qNQu4pn0)
 
-<img src="http://i.imgur.com/r3ZHt50.jpg" width="100" height="100">
+<a href="default.asp"><img src="http://i.imgur.com/r3ZHt50.jpg" width="100" height="100"></a>
